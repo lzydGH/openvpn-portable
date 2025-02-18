@@ -9,30 +9,31 @@
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
-## Notice of Non-Affiliation and Disclaimer
+## 非关联和免责声明
 
-Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with OpenVPN™, or any of its subsidiaries or its affiliates.
+Portapps 与 OpenVPN™ 或其任何子公司或关联公司没有任何关联、关联、授权、认可或任何形式的官方联系。
 
-The official OpenVPN™ website can be found at https://openvpn.net.
+官方 OpenVPN™ 网站可在 https://openvpn.net 找到。
 
-The name OpenVPN™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+OpenVPN™ 名称以及相关名称、标记、徽标和图像是其各自所有者的注册商标。
 
-## About
+## 关于
 
-OpenVPN™ portable app made with 🚀 [Portapps](https://portapps.io).<br />
-Documentation and downloads can be found on https://portapps.io/app/openvpn-portable/
+OpenVPN™ 便携式应用程序由 🚀 [Portapps](https://portapps.io) 制作。<br />
 
-## Contributing
+文档和下载可在 https://portapps.io/app/openvpn-portable/ 找到
 
-Want to contribute? Awesome! The most basic way to show your support is to star the project, or to raise issues. If
-you want to open a pull request, please read the [contributing guidelines](https://portapps.io/doc/contribute/).
+## 贡献
 
-You can also support this project by [**becoming a sponsor on GitHub**](https://github.com/sponsors/crazy-max) or by
-making a [Paypal donation](https://www.paypal.me/crazyws) to ensure this journey continues indefinitely!
+想要贡献？太棒了！表示支持的最基本方式是为项目加星标或提出问题。如果
+您想打开拉取请求，请阅读 [贡献指南](https://portapps.io/doc/contribute/)。
 
-Thanks again for your support, it is much appreciated! :pray:
+您还可以通过[**成为 GitHub 上的赞助商**](https://github.com/sponsors/crazy-max) 或通过
+进行 [Paypal 捐赠](https://www.paypal.me/crazyws) 来支持该项目，以确保此旅程无限期地继续下去！
 
-## License
+再次感谢您的支持，非常感谢！:pray:
 
-MIT. See `LICENSE` for more details.<br />
-Rocket icon credit to [Squid Ink](http://thesquid.ink).
+## 许可证
+
+MIT。有关更多详细信息，请参阅`LICENSE`。<br />
+火箭图标归功于 [Squid Ink](http://thesquid.ink)。
